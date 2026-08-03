@@ -12,7 +12,7 @@
 
 > באילו שימושים ובאילו שכבות של שרשרת הערך נדרשת לישראל שליטה, בחירה וחוסן, ומהי הדרך המידתית להשיג אותם?
 
-אימון מודל בסיס ישראלי הוא אחת ההתערבויות האפשריות. חלופות אחרות עשויות לכלול שימוש בשירות מסחרי, התאמת מודל פתוח, RAG, גיוון ספקים, דרישות רכש, שותפות בינלאומית, תשתית משותפת או החזקת יכולת גיבוי.
+פיתוח מודל בסיס ישראלי הוא אחת ההתערבויות האפשריות. לפני השוואת חלופות יש להפריד בין הדרך שבה מתקבלת יכולת המודל, תצורת ההרצה ושיטת ההתאמה. RAG ו-fine-tuning אינם חלופות ריבונות עצמאיות. ראו [הגדרת מרחב ההחלטה](research/model-option-space.md).
 
 ## תוצרי המחקר
 
@@ -21,15 +21,16 @@
 1. [תקציר מנהלים](EXECUTIVE_SUMMARY.md)
 2. [מתודולוגיית המחקר](METHODOLOGY.md)
 3. [בחירת המסגרות](research/framework-selection.md)
-4. [מטריצת השוואה](research/comparison-matrix.md)
-5. [עקיבות מן המקורות לסינתזה](research/source-to-synthesis-lineage.md)
-6. [שש מסגרות המקור](frameworks/)
-7. [המתודולוגיה המשולבת](synthesis/integrated-methodology.md)
-8. [תבנית להערכת use case](toolkit/use-case-assessment.md)
-9. [תבנית לתוצר החלטה](toolkit/decision-output.md)
-10. [מקרה בוחן: מודל בהקשר ישראלי](case-studies/israeli-context-model.md)
-11. [מרשם ראיות](research/evidence-register.md)
-12. [מגבלות ושאלות פתוחות](research/limitations-and-open-questions.md)
+4. [הגדרת מרחב ההחלטה](research/model-option-space.md)
+5. [מטריצת השוואה](research/comparison-matrix.md)
+6. [עקיבות מן המקורות לסינתזה](research/source-to-synthesis-lineage.md)
+7. [שש מסגרות המקור](frameworks/)
+8. [המתודולוגיה המשולבת](synthesis/integrated-methodology.md)
+9. [תבנית להערכת use case](toolkit/use-case-assessment.md)
+10. [תבנית לתוצר החלטה](toolkit/decision-output.md)
+11. [מקרה בוחן: מודל בהקשר ישראלי](case-studies/israeli-context-model.md)
+12. [מרשם ראיות](research/evidence-register.md)
+13. [מגבלות ושאלות פתוחות](research/limitations-and-open-questions.md)
 
 ## שש מסגרות היסוד
 
