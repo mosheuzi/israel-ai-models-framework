@@ -22,19 +22,20 @@
 2. [מתודולוגיית המחקר](METHODOLOGY.md)
 3. [בחירת המסגרות](research/framework-selection.md)
 4. [מטריצת השוואה](research/comparison-matrix.md)
-5. [שש מסגרות המקור](frameworks/)
-6. [המתודולוגיה המשולבת](synthesis/integrated-methodology.md)
-7. [תבנית להערכת use case](toolkit/use-case-assessment.md)
-8. [תבנית לתוצר החלטה](toolkit/decision-output.md)
-9. [מקרה בוחן: מודל בהקשר ישראלי](case-studies/israeli-context-model.md)
-10. [מרשם ראיות](research/evidence-register.md)
-11. [מגבלות ושאלות פתוחות](research/limitations-and-open-questions.md)
+5. [עקיבות מן המקורות לסינתזה](research/source-to-synthesis-lineage.md)
+6. [שש מסגרות המקור](frameworks/)
+7. [המתודולוגיה המשולבת](synthesis/integrated-methodology.md)
+8. [תבנית להערכת use case](toolkit/use-case-assessment.md)
+9. [תבנית לתוצר החלטה](toolkit/decision-output.md)
+10. [מקרה בוחן: מודל בהקשר ישראלי](case-studies/israeli-context-model.md)
+11. [מרשם ראיות](research/evidence-register.md)
+12. [מגבלות ושאלות פתוחות](research/limitations-and-open-questions.md)
 
 ## שש מסגרות היסוד
 
 | מסגרת | התרומה הייחודית |
 |---|---|
-| [OECD AI Value Chain](frameworks/01-oecd-ai-value-chain.md) | מיפוי השכבות, התשומות וצווארי הבקבוק שמהם נוצר ערך |
+| [OECD AI Markets and Value Chain Synthesis](frameworks/01-oecd-ai-value-chain.md) | מיפוי השכבות, התשומות וצווארי הבקבוק שמהם נוצר ערך |
 | [OECD Classification](frameworks/02-oecd-ai-classification.md) | אפיון ה-use case, ההקשר, המשימה והגורמים המושפעים |
 | [EU Cloud Sovereignty Framework](frameworks/03-eu-cloud-sovereignty.md) | פירוק שליטה וריבונות לפרופיל רב-ממדי וברמות שונות |
 | [JRC Open Strategic Autonomy](frameworks/04-jrc-open-strategic-autonomy.md) | הבחנה בין תלות רגילה לבין תלות אסטרטגית שמצמצמת חופש פעולה |
